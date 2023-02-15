@@ -1,1 +1,1 @@
-# Skedaddle
+# Skidaddle
